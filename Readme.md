@@ -2,12 +2,12 @@
 
 ### NPM  -  Used to Install Node Packages 
 
-- to Initilize as npm project
+- To Initilize as npm project
 
 ```bash
 npm init 
 ```
-
+- To Install the package like Angular Cli and Express
 ```bash
 npm i @angular/cli
 ```
